@@ -1,0 +1,33 @@
+index,place,x,y,difficulty,category,visited_users
+0,Ashok Stupa,27.66531,85.32709,Easy,Historic Monumental Peace,4
+1,Babar Mahal Revisted,27.694248,85.3204633,Easy,Architectural Landmark Point of Interest Monumental,5
+2,Basantapur Tower,27.7042216,85.3045416,Intermediate,Architectural Landmark Historic Point of Interest,1
+3,Bhimsen Tower (Dharhara),27.7006107,85.3096452,Hardest,Architectural Landmark Point of Interest Historic,400
+4,Boudhanath Stupa,27.721714517208408,85.36191881704318,Easy,Religious Peace Explore,43
+5,Budhanilkantha,27.7677423,85.3260094,Hard,Religious Monumental Point of Interest,56
+6,Chandragiri Hill,27.686766,85.2001653,Godlevel,Fun Explore Adventure,3
+7,Charumati Vihara Stupa,27.7159247,85.3436656,Hardest,Religious Peace Monumental,34
+8,Dhansa Dega,27.7031236,85.3037819,Easiest,Point of Interest Religious Explore,64
+9,Durbar Marg,27.71245,85.3155822,Intermediate,Point of Interest Fun Explore,34
+10,Freak Street,27.7035085,85.3045869,Easy,Fun Explore Adventure,24
+11,Garden of Dreams,27.7141261,85.3123154,Easy,Fun Peace Point of Interest,35
+12,Ghanta Ghar Clock Tower,27.707477,85.3147112,Easy,Architectural Landmark Point of Interest Historic,86
+13,Hanuman Dhoka,27.7047458,85.3049663,Hard,Architectural Landmark Historic Point of Interest,79
+14,Jaganath (Krishna) Temple,27.7238206,85.2919336,Intermediate,Religious Monumental Explore,97
+15,Kailashnath Mahadev,27.6461062,85.4720758,Easiest,Monumental Religious Fun,2
+16,Kapan Monastery,27.7425438,85.3622082,Godlevel,Religious Fun Explore,2
+17,Kasthamandap,27.7039313,85.3036991,Hard,Religious Architectural Landmark Peace,534
+18,Kathmandu Durbar Square,27.7041718,85.3044636,Hardest,Historic Monumental Fun,6
+19,Kathmandu Fun Park,27.701377,85.3182094,Godlevel,Fun Explore Adventure,57
+20,Krishna Temple,27.6735983,85.3227425,Hard,Religious Monumental Historic,86
+21,Mandala Street,27.7151546,85.3086283,Hard,Point of Interest Fun Explore,34
+22,Manjushree Temple,27.7013375,85.2991726,Easiest,Religious Historic Point of Interest,42
+23,Namo Buddha (Stupa),27.5711818,85.5801777,Easiest,Religious Point of Interest Fun,57
+24,Pashupatinath Temple,27.7104592,85.3465473,Hard,Religious Point of Interest Monumental,46
+25,Rani Pokhari,27.7078387,85.3131603,Easiest,Architectural Landmark Peace Point of Interest,9
+26,Shahid Gate,27.6996073,85.3128833,Easiest,Monumental Architectural Landmark Historic,69
+27,Sundarijal,27.7850526,85.393595,Godlevel,Natural Fun Explore,257
+28,Swayambhunath Temple,27.7148341,85.2860024,Hardest,Religious Natural Fun,51
+29,Thamel,27.7150086,85.3078937,Easiest,Explore Fun Adventure,4
+30,Taudaha,27.648655,85.2808935,Intermediate,Natural Peace Explore,600
+31,Central Zoo,27.672704,85.3096407,Hard,Fun Explore Point of Interest,550
